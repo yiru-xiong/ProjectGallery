@@ -25,7 +25,7 @@ Feel free to explore, provide feedback, or reach out if you’d like to collabor
 - **Usage**: How to use this snippet to enhance your own creations. 🛠️
 
 ## 🧸 About Me
-I’m a certified AI practitioner, software development engineer, and data scientist with a passion for creating innovative tech solutions and turning data into impactful business strategies and sources of inspiration. 🌟
+I’m a certified AI practitioner, software development engineer, and data scientist with a passion for creating innovative tech solutions, transforming data into impactful business strategies and sources of inspiration. 🌟
 
 Outside of my professional world, I’m also a culinary adventurer always on the hunt for new flavors, an artist who uncovers beauty in tiny yet mighty details, a casual boxer who enjoys the thrill of challenges, and a story creator deeply inspired by humanity, empathy, and love. 💜
 
