@@ -6,9 +6,12 @@ This repository features code snippets and highlights related to **NLP Question 
 
 - **Matching Algorithm**: Developed an algorithm to identify the closest matched content from a knowledge base for accurate answer generation.
 - **Utilities and Features**: Implemented essential utilities and features within the generator's infrastructure.
-- **Customized Grammar Checker**: Created a grammar checker to evaluate the quality of matched results and detect grammatical errors.
+- **Customized Grammar Checker**: Created a grammar checker to evaluate the quality of matched results and detect grammatical errors
 - 
 **Flowchart:** A flowchart detailing the matching algorithm's process is included to help visualize the algorithm's operation and decision-making steps.
+
+  
+<img width="354" alt="NLP Project -Matching Algorithm" src="https://github.com/user-attachments/assets/ace40f70-9cc4-42b5-86b7-3491521b42eb">
 
 **Note:** The code provided represents partial implementations designed to demonstrate specific functionalities.
 
