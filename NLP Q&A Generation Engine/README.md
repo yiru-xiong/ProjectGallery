@@ -25,7 +25,7 @@ This repository features code snippets and highlights related to **NLP Question 
 
 **Note:** The code provided represents partial implementations designed to demonstrate specific functionalities.
 
-For comprehensive implementation details, please refer to the main project repository or reach out!
+For comprehensive implementation details, please refer to the main project repository or [reach out](mailto:yx225@cornell.edu)!
 
 
 
