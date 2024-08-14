@@ -27,7 +27,11 @@ This collection of programming samples written in C showcases my understanding o
 ## 🧸
 These projects have always been exhilarating reminders of my first semester at ZIP Code 15213. Seeing all tests passed was always thrilling! These hands-on implementations reinforced my understanding and passion for system-level programming!
 
-<img width="556" alt="Shell Lab Score" src="https://github.com/user-attachments/assets/b778c3ee-3db2-4d2e-911a-55709bfea7bd">
+<img width="478" alt="Screen Shot 2020-06-23 at 2 43 26 AM copy" src="https://github.com/user-attachments/assets/5d922728-8eaa-41ca-935f-cb3f9308eee4"> `Cache Simulator`
+
+<img width="556" alt="Shell Lab Score" src="https://github.com/user-attachments/assets/b778c3ee-3db2-4d2e-911a-55709bfea7bd"> `Tsh`
+
+
 
 **Note:**
 These samples are derived from CMU Computer Systems course labs. 
