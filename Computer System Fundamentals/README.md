@@ -25,12 +25,11 @@ This collection of programming samples written in C showcases my understanding o
 - **Computer System Fundamentals**
 
 ## 🧸
-These projects have always been exhilarating reminders of my first semester at ZIP Code 15213. Seeing all tests passed was always thrilling! This experience reinforced my understanding and passion for system-level programming!
+These projects have always been exhilarating reminders of my first semester at ZIP Code 15213. Seeing all tests passed was always thrilling! These hands-on implementations reinforced my understanding and passion for system-level programming!
 <img width="556" alt="Shell Lab Score" src="https://github.com/user-attachments/assets/b778c3ee-3db2-4d2e-911a-55709bfea7bd">
 
 **Note:**
 These samples are derived from CMU Computer Systems course labs. 
-
 
 
 Explore the code samples to see how these concepts are applied in practice. Feel free to reach out with any questions or feedback!
