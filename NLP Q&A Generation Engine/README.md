@@ -1,6 +1,6 @@
 ## 📝 NLP Question and Answering Generation Engine
 
-This repository features code snippets and highlights related to **NLP Question Generation** and **Answering**. These snippets illustrate essential components and techniques for developing systems that generate and respond to binary questions using natural language processing (NLP).
+This repository features code snippets and highlights related to **NLP Question Generation** and **Answering**. These snippets illustrate essential components and techniques for developing an intelligent QnA bot that generates and responds to binary questions using natural language processing (NLP).
 
 **Collaborative Project Contributions:**
 
