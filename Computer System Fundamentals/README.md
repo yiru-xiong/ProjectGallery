@@ -1,4 +1,4 @@
-# Computer Systems Fundamentals - C Programming Samples
+# 💻 Computer Systems Fundamentals - C Programming Samples
 
 This collection of programming samples written in C showcases my understanding of computer systems fundamentals and demonstrates my skills in system-level programming.
 
