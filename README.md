@@ -1,6 +1,6 @@
 #  Welcome to Yiru's **Project Gallery**! 
 
-✨ **Congratulations!** 🎉🥳 You’ve just unlocked exclusive access to a private exhibition at my **Project Gallery**! ✨
+✨ **Congratulations!** 🥳 You’ve just unlocked exclusive access to a private exhibition at my **Project Gallery**! ✨
 
 Here, you’ll find a curated collection of code examples, project highlights, and technical solutions across the exciting realms of Machine Learning & AI, computer programming, and data science. Whether you’re seeking inspiration or exploring my tech skills, research interests, and ongoing projects, you’re in the right place!
 
@@ -8,26 +8,27 @@ This repository is a dynamic work in progress🎨, continuously updating and imp
 
 Feel free to explore, provide feedback, or reach out if you’d like to collaborate. Let’s connect and create something amazing together! 🤝✨
 
-## 🦄 Gallery Highlights
+## Gallery Highlights 🦄
 
-### ProjectName1 
-- **Description**: Discover the essence of this project, a true masterpiece in its own right. 🖼️
-- **Technologies Used**: The tools and techniques that brought this project to life. 🔧
-- **Setup**: Instructions for you to experience this work of art yourself. 📜
+### 🎀 [NLP Q&A Generation Engine](https://github.com/yiru-xiong/ProjectGallery/tree/main/NLP%20Q%26A%20Generation%20Engine)
+- **Description**: Developed a sophisticated Q&A bot that leverages NLP techniques for generating and answering binary questions.
+- **Tech Stacks**: NLP, NER, Coreference Resolution, OOP, Python, Machine Learning (spaCy, scikit-learn), Data Processing (Pandas, NumPy, NLTK), Docker, etc.
+- **See details in Project README file**
 
-### ProjectName2 
-- **Description**: Another gem in our gallery, rich with features and elegance. 🌟
-- **Technologies Used**: The innovative technologies and frameworks used. 💻
-- **Setup**: How to set up and appreciate this project's brilliance. 🎨
+### 🎀 [Deep Reinforcement Learning Exploration](https://github.com/yiru-xiong/ProjectGallery/tree/main/Deep%20Reinforcement%20Learning)
+- **Description**: Implemented and experimented with various reinforcement learning and optimization techniques in custom environments for sanity check.
+- **Tech Stacks**: Python, Colab, PyTorch, TensorFlow, Gym, NumPy, Visualization (Matplotlib, Seaborn), functools.
+- **See details in Project README file**
 
-### SampleCode1 
-- **Description**: A snippet of code that showcases a specific technique or solution. 📚
-- **Usage**: How to use this snippet to enhance your own creations. 🛠️
+### 🎀 [Computer System Fundamentals](https://github.com/yiru-xiong/ProjectGallery/tree/main/Computer%20System%20Fundamentals)
+- **Description**: A collection of C programming samples highlighting fundamental computer system concepts and system-level programming skills
+- **Tech Stacks**: C, Standard C Library, Computer System Fundamentals.
+- **See details in Project README file**
 
-## 🧸 About Me
-I’m a certified AI practitioner, software development engineer, and data scientist with a passion for creating innovative tech solutions, transforming data into impactful business strategies and sources of inspiration. 🌟
+## About Me 🧸
+I’m a certified AI practitioner, software development engineer, and data scientist with a passion for creating innovative tech solutions, transforming data into impactful business strategies and sources of inspiration.🌟
 
-Outside of my professional world, I’m also a culinary adventurer always on the hunt for new flavors, an artist who uncovers beauty in tiny yet mighty details, a casual boxer who enjoys the thrill of challenges, and a story creator deeply inspired by humanity, empathy, and love. 💜
+Outside of my professional world, I’m also a culinary adventurer always on the hunt for new flavors, an artist who uncovers beauty in tiny yet mighty details, a casual boxer who enjoys the thrill of challenges, and a story creator deeply inspired by humanity, empathy, and love.💜
 
 ## 📫 Contact
 
