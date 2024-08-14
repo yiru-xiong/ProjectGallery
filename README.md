@@ -8,7 +8,7 @@ This repository is a dynamic work in progress🎨, continuously updating and imp
 
 Feel free to explore, provide feedback, or reach out if you’d like to collaborate. Let’s connect and create something amazing together! 🤝✨
 
-## Gallery Highlights 🦄
+## 🦄 Gallery Highlights 
 
 ### 🎀 [NLP Q&A Generation Engine](https://github.com/yiru-xiong/ProjectGallery/tree/main/NLP%20Q%26A%20Generation%20Engine)
 - **Description**: Developed a sophisticated Q&A bot that leverages NLP techniques for generating and answering binary questions.
@@ -25,7 +25,7 @@ Feel free to explore, provide feedback, or reach out if you’d like to collabor
 - **Tech Stacks**: C, Standard C Library, Computer System Fundamentals.
 - **See details in Project README file**
 
-## About Me 🧸
+## 🧸 About Me 
 I’m a certified AI practitioner, software development engineer, and data scientist with a passion for creating innovative tech solutions, transforming data into impactful business strategies and sources of inspiration.🌟
 
 Outside of my professional world, I’m also a culinary adventurer always on the hunt for new flavors, an artist who uncovers beauty in tiny yet mighty details, a casual boxer who enjoys the thrill of challenges, and a story creator deeply inspired by humanity, empathy, and love.💜
