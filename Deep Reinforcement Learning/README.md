@@ -18,5 +18,5 @@ This collection of project samples showcase my skills in reinforcement learning 
 - **Functools**
 
 **Note:** 
-The experiments and code in this repository are inspired by and adapted from Sutton & Barto's *Reinforcement Learning* book and academic labs at CMU.
+The experiments and code in this repository are inspired by and adapted from Sutton & Barto's *Reinforcement Learning* book and academic labs from Deep Reinforcement Learning course at CMU.
 For further information or questions, feel free to [reach out](mailto:yx225@cornell.edu)!
