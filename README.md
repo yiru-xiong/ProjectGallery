@@ -17,7 +17,7 @@ Feel free to explore, provide feedback, or reach out if you’d like to collabor
 
 ### 🎀 [Deep Reinforcement Learning Exploration](https://github.com/yiru-xiong/ProjectGallery/tree/main/Deep%20Reinforcement%20Learning)
 - **Description**: Implemented and experimented with various reinforcement learning and optimization techniques in custom environments for sanity check.
-- **Tech Stacks**: Python, Colab, PyTorch, TensorFlow, Gym, NumPy, Visualization (Matplotlib, Seaborn), functools.
+- **Tech Stacks**: Python, Colab, PyTorch, TensorFlow, Gym, NumPy, Visualization (Matplotlib, Seaborn), functools, etc.
 - **See details in this project README file**
 
 ### 🎀 [Computer System Fundamentals](https://github.com/yiru-xiong/ProjectGallery/tree/main/Computer%20System%20Fundamentals)
