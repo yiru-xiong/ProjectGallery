@@ -1,12 +1,10 @@
-#  Welcome to Yiru's **Project Gallery** 🎊
+#  Welcome to Yiru's **Project Gallery** 🎨
 
 ✨ **Congratulations!** You’ve just unlocked exclusive access to a private exhibition at my **Project Gallery**! ✨
 
 Here, you’ll find a curated collection of code examples, project highlights, and technical solutions across the realms of Machine Learning & AI, computer programming, and data science. Whether you’re seeking inspiration or exploring my tech skills, research interests, and ongoing projects, you’re in the right place!
 
 This repository is a dynamic work in progress, continuously updating and improving. So, check back often for new and exciting updates! 🚀
-
-Feel free to explore, provide feedback, or reach out if you’d like to collaborate. Let’s connect and create something amazing together! 🤝✨
 
 ## 🦄 Gallery Highlights 
 
@@ -39,6 +37,4 @@ Feel free to reach out for any inquiries or collaborations:
 
 ## 🤝 Contributions
 
-Your feedback and contributions are welcome! If you’d like to enhance this gallery or share your thoughts, please feel free to reach out.
-
-Enjoy exploring and look forward to hearing from you 💐
+Your feedback and contributions are welcome! Feel free to explore, provide feedback, or reach out if you’d like to collaborate. Let’s connect and create something amazing together! 💐
