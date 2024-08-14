@@ -1,4 +1,4 @@
-#  Welcome to Yiru's **Project Gallery** 🎉
+#  Welcome to Yiru's **Project Gallery** 🎊
 
 ✨ **Congratulations!** You’ve just unlocked exclusive access to a private exhibition at my **Project Gallery**! ✨
 
