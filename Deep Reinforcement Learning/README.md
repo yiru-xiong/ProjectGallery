@@ -10,7 +10,7 @@ This collection of project samples showcase my skills in reinforcement learning 
 
 - **Python**
 - **Colab**
-- **PyTorch**:
+- **PyTorch**
 - **Tensorflow**
 - **Gym**
 - **NumPy**
