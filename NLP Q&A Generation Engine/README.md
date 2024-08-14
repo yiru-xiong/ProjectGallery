@@ -18,10 +18,10 @@ This repository features code snippets and highlights related to **NLP Question 
 - **Coreference Resolution**
 - **Object-Oriented Programming (OOP)**
 - **Python**
+- **Machine Learning Frameworks** (e.g., spaCy, scikit-learn)
+- **Data Processing Libraries** (e.g., Pandas, NumPy, NLTK)
 - **Docker**
-- **Machine Learning Frameworks**
-- **Data Processing Libraries**
-- **API Integration**
+
 
 **Note:** The code provided represents partial implementations designed to demonstrate specific functionalities.
 
