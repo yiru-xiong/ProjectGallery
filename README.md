@@ -23,7 +23,7 @@ This repository is a dynamic work in progress, continuously updating and improvi
 - **Tech Stacks**: C, Standard C Library, Computer System Fundamentals.
 - **See details in this project README file**
 
-### 🎀 [Research & Writing Samples Archive](https://github.com/yiru-xiong/ProjectGallery/tree/main/Research%20%26%20Presentation%20Compilations)
+### 🎀 [Research & Writing Samples Archive](https://github.com/yiru-xiong/ProjectGallery/tree/main/Research%20%26%20Writing%20Samples%20Archive)
 - **Description**: This archive provides insights into key research papers, including my analytical reflections and ongoing research in the fields of Computer Vision, NLP, and Artificial Intelligence
 - **Tech Stacks**: AI technologies, research, literature review skills, documentation and presentation tools
 - **See details in this project README file**
