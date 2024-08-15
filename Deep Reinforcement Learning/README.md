@@ -18,7 +18,7 @@ This collection of project samples showcase my skills in reinforcement learning 
 - **Functools**
 
 ### 🧸
-Training a reinforcement learning model is fun! It’s a lot like training a pet—give the right incentives, the learning process quickly adapts and learns to solve the problem more effectively, just like how a smart kitty/puppy quickly masters new tricks 🐾🎓
+Training a reinforcement learning model is fun! It’s a lot like training a pet—give the right incentives, the learning agent quickly adapts and learns to solve the problem more effectively, just like how a smart kitty/puppy quickly masters new tricks 🐾🎓
 
 <img width="220" alt="my cat" src="https://github.com/user-attachments/assets/e4fea97d-708a-4beb-a9bf-710a38c2b949">
 
