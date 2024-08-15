@@ -1,3 +1,5 @@
+### Research and Presentation Samples
+
 This is an archive of my research presentations and writing samples within the fields of Computer Vision, NLP, and Artificial Intelligence. It showcases my progress, evolving insights, and ongoing endeavors in these fields.
 
 ### Highlights
