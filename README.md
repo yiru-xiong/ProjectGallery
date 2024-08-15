@@ -27,7 +27,7 @@ This repository is a dynamic work in progress, continuously updating and improvi
 - **Description**: This archive provides insights into key research papers, including my analytical reflections and ongoing research in the fields of Computer Vision, NLP, and Artificial Intelligence
 - **Tech Stacks**: AI technologies, research, literature review skills, documentation and presentation tools
 - **See details in this project README file**
-- 
+
 ## 🧸 About Me 
 I’m a certified AI practitioner, software development engineer, and data scientist with a passion for creating innovative tech solutions, transforming data into impactful business strategies and sources of inspiration💡.
 
