@@ -34,7 +34,4 @@ These projects have always been exhilarating reminders of my first semester at Z
 
 
 **Note:**
-These samples are derived from CMU Computer Systems course labs. 
-
-
-Explore the code samples to see how these concepts are applied in practice. Feel free to reach out with any questions or feedback!
+These samples are derived from CMU Computer Systems course labs. Feel free to reach out with any questions or feedback.
