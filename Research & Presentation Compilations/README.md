@@ -8,6 +8,10 @@ This is an archive of my research presentations and writing samples within the f
 - **Literature Reviews**: Comprehensive reviews and summaries of significant research papers and studies, including a focused survey of Optical Character Recognition (OCR) technologies over the past decade.
 - **Writing Samples**: Drafts and completed pieces demonstrating my analytical and academic writing on relevant topics.
 
+### Tech Stacks
+- **AI Technologies**: Deep Learning Frameworks (e.g., PyTorch, Tensorflow, Keras, etc.), Computer Visions Libraries (e.g., OpenCV, Tesseract, etc.)
+- **Research Tools**: Jupyter Notebook, LaTex, Google Colab, Google Slides, Microsoft PowerPoint
+  
 ### Notes
 
 This folder serves as a dynamic portfolio of my research activities and progress. As I continue my research, this collection will grow and evolve, reflecting new findings, analyses, and insights.
