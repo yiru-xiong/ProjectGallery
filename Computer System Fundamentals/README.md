@@ -25,7 +25,7 @@ This collection of programming samples written in C showcases my understanding o
 - **Computer System Fundamentals**
 
 ## 🧸
-These projects have always been exhilarating reminders of my first semester at ZIP Code 15213. Seeing all tests passed was always thrilling! These hands-on implementations reinforced my understanding and passion for system-level programming!
+These projects have always been exhilarating reminders of my first semester at ZIP Code 15213. Seeing all tests passed was always thrilling! These hands-on implementations reinforced my understanding and passion for system-level programming.
 
 <img width="478" alt="Screen Shot 2020-06-23 at 2 43 26 AM copy" src="https://github.com/user-attachments/assets/5d922728-8eaa-41ca-935f-cb3f9308eee4"> `Cache Simulator`
 
