@@ -4,7 +4,7 @@ This collection of project samples showcase my skills in reinforcement learning 
 
 - **Optimization Techniques**: Implementations of CMA-ES (Covariance Matrix Adaptation Evolution Strategy) and GCBC (Gradient-Based Continuous Control).
 - **Reinforcement Learning Methods**: Examples of episodic reinforcement learning and comparisons of exploration algorithms in the 10-armed bandit problem.
-- **Toy Environments**: Creation of custom toy environments for sanity checks, experimentation, evaluation, and enhancement of reinforcement learning algorithms.
+- **Custom Test Environments**: Creation of toy environments for sanity checks, experimentation, evaluation, and enhancement of reinforcement learning algorithms.
 
 ### Tech Stack
 
