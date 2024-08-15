@@ -26,7 +26,7 @@ This repository is a dynamic work in progress, continuously updating and improvi
 ## 🧸 About Me 
 I’m a certified AI practitioner, software development engineer, and data scientist with a passion for creating innovative tech solutions, transforming data into impactful business strategies and sources of inspiration💡.
 
-Outside of my professional world, I’m also a culinary adventurer always on the hunt for new flavors, an artist who uncovers beauty in tiny yet mighty details, a casual boxer who enjoys the thrill of challenges, and a storyteller deeply inspired by humanity, empathy, and love.
+Outside of my professional world, I’m also a culinary adventurer always on the hunt for new flavors, an artist who uncovers beauty in tiny yet mighty details, a casual boxer who enjoys the thrill of challenges, and a storyteller deeply inspired by humanity, empathy, and love 💜.
 
 ## 📫 Contact
 
@@ -37,6 +37,6 @@ Feel free to reach out for any inquiries or collaborations:
 
 ## 🤝 Contributions
 
-Your feedback and contributions are welcome! Feel free to explore, provide feedback, or reach out if you’d like to collaborate. Let’s connect and create something amazing together! 💜
+Your feedback and contributions are welcome. Feel free to explore, provide feedback, or reach out if you’d like to collaborate. Let’s connect and create something amazing together!
 
 🌟 _"What is essential is invisible to the eye."_ — Antoine de Saint-Exupéry, *The Little Prince* 
