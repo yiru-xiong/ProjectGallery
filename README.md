@@ -19,7 +19,7 @@ This repository is a dynamic work in progress, continuously updating and improvi
 - **See details in this project README file**
 
 ### 🎀 [Computer System Fundamentals](https://github.com/yiru-xiong/ProjectGallery/tree/main/Computer%20System%20Fundamentals)
-- **Description**: A collection of C programming samples highlighting fundamental computer system concepts and system-level programming skills
+- **Description**: A collection of C programming samples demonstrate knowledge of fundamental computer system concepts and system-level programming skills
 - **Tech Stacks**: C, Standard C Library, Computer System Fundamentals.
 - **See details in this project README file**
 
