@@ -9,13 +9,13 @@ This repository is a dynamic work in progress, continuously updating and improvi
 ## 🦄 Gallery Highlights 
 
 ### 🎀 [Deep Reinforcement Learning Exploration](https://github.com/yiru-xiong/ProjectGallery/tree/main/Deep%20Reinforcement%20Learning)
-- **Description**: Implemented and experimented with various reinforcement learning and optimization techniques in custom environments for sanity check.
+- **Description**: A collection of explorations and implementations in reinforcement learning and optimization techniques, emphasizing method comparisons, sanity checks in custom toy environments, and visualization of learning trajectories
 - **Tech Stacks**: Python, Colab, PyTorch, TensorFlow, Gym, NumPy, Visualization (Matplotlib, Seaborn), functools, etc.
 - **See details in this project README file**
 
-### 🎀 [NLP Q&A Generation Engine](https://github.com/yiru-xiong/ProjectGallery/tree/main/NLP%20Q%26A%20Generation%20Engine)
-- **Description**: Developed a sophisticated Q&A bot that leverages NLP techniques for generating and answering binary questions.
-- **Tech Stacks**: NLP, NER, Coreference Resolution, OOP, Python, Machine Learning (spaCy, scikit-learn), Data Processing (Pandas, NumPy, NLTK), Docker, etc.
+### 🎀 [NLP Exploration and Implementation](https://github.com/yiru-xiong/ProjectGallery/tree/main/Natural%20Language%20Processing%20)
+- **Description**: A collection of foundational work in NLP, featuring projects on Q&A generator, sentiment classifier using baseline and deep learning models, and implementations of essential language model components like Viterbi and HMM.
+- **Tech Stacks**: OOP, Python, NER, Tag, POS, NLP frameworks (spaCy, scikit-learn, NLTK), Data Processing (Pandas, NumPy, NLTK), Docker, etc.
 - **See details in this project README file**
 
 ### 🎀 [Computer System Fundamentals](https://github.com/yiru-xiong/ProjectGallery/tree/main/Computer%20System%20Fundamentals)
