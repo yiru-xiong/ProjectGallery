@@ -23,7 +23,7 @@ This repository is a dynamic work in progress, continuously updating and improvi
 - **Tech Stacks**: C, Standard C Library, Computer System Fundamentals.
 - **See details in this project README file**
 
-### 🎀 [Machine Learning Classics]{https://github.com/yiru-xiong/ProjectGallery/tree/main/Machine%20Learning%20Classics}
+### 🎀 [Machine Learning Classics](https://github.com/yiru-xiong/ProjectGallery/tree/main/Machine%20Learning%20Classics) 
 - **Description**: A collection of code samples for Machine Learning classic projects, such as mini-torch framework from scratch, sentiment classifier, and a deep learning model for video forgery detection
 - **Tech Stacks**: TensorFlow, PyTorch, Keras, scikit-learn, machine learning algorithms, deep learning architectures, hyperparameter optimization, fine-tuning
 -  **See details in this project README file**
