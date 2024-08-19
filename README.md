@@ -47,6 +47,6 @@ Feel free to reach out for any inquiries or collaborations:
 
 ## 🤝 Contributions
 
-Your feedback and contributions are welcome. Feel free to explore, provide feedback, or reach out if you’d like to collaborate. Let’s connect and create something amazing together!
+Your feedback and contributions are welcome. Feel free to explore, provide feedback, or reach out if you’d like to collaborate. Let’s connect and create something magic together!
 
 🌟 _"What is essential is invisible to the eye."_ — Antoine de Saint-Exupéry, *The Little Prince* 
