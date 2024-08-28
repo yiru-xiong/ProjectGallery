@@ -32,7 +32,7 @@ This repository is a dynamic work in progress, continuously updating and improvi
 - **Description**: A collection of Python and SQL script samples showcase my data engineering, data analytics, and problem solving skills
 - **Tech Stacks**: Python, SQL, MySQL, PostgreSQL, pgAdmin, Amazon RDS, pandas, numpy, etc.
 - **See details in this project README file**
-- 
+  
 ### 🎀 [Research & Writing Samples Archive](https://github.com/yiru-xiong/ProjectGallery/tree/main/Research%20%26%20Writing%20Samples%20Archive)
 - **Description**: This archive provides insights into key research papers, including my analytical reflections and ongoing research in the fields of Computer Vision, NLP, and Artificial Intelligence
 - **Tech Stacks**: AI technologies, research, literature review skills, documentation and presentation tools
