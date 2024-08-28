@@ -31,5 +31,5 @@ A compilation of solutions to various LeetCode problems, demonstrating my proble
 
 ## 🧸
 Working on data transformation is like giving a glamorous makeover. Picture this: with a sprinkle of SQL wizardry and a touch of Python artistry, we transform that unruly, "just rolled out of bed" data into a dazzling, red-carpet-ready presentation. It’s like transforming a data Cinderella into a stunning Disney princess - she is ready to shine under the spotlight at the prom of analytics and research! ✨
-![pic](https://github.com/user-attachments/assets/243d4d5e-5a7c-48d1-86af-2ac074a824f6)
 
+![openart-image_mqPS5XU6_1724825420063_raw](https://github.com/user-attachments/assets/15c506db-9cbd-4ac3-aff9-a4b7f82008ae)
