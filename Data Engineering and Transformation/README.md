@@ -30,4 +30,4 @@ A compilation of solutions to various LeetCode problems, demonstrating my proble
 - **Tools**: pgAdmin, Amazon RDS
 
 ## 🧸
-Working on data transformation is like giving a glamorous makeover. Picture this: with a sprinkle of SQL wizardry and a touch of Python artistry, we transform that unruly, "just rolled out of bed" data into a dazzling, red-carpet-ready presentation. It’s like transforming a data Cinderella into a stunning Disney princess, ready to shine under the spotlight of further analytics and research! ✨
+Working on data transformation is like giving a glamorous makeover. Picture this: with a sprinkle of SQL wizardry and a touch of Python artistry, we transform that unruly, "just rolled out of bed" data into a dazzling, red-carpet-ready presentation. It’s like transforming a data Cinderella into a stunning Disney princess - she is ready to shine under the spotlight at the prom of analytics and research! ✨
